@@ -20,4 +20,4 @@ using System.Runtime.InteropServices;
 [assembly: CLSCompliant(true)]
 [assembly: ComVisible(false)]
 
-[assembly: InternalsVisibleTo("MongoDB.Bson.Tests")]
+//[assembly: InternalsVisibleTo("MongoDB.Bson.Tests")]

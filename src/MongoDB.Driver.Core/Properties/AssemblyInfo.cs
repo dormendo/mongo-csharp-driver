@@ -19,10 +19,3 @@ using System.Runtime.InteropServices;
 
 [assembly: CLSCompliant(true)]
 [assembly: ComVisible(false)]
-
-[assembly: InternalsVisibleTo("MongoDB.Driver.Core.FunctionalTests")]
-[assembly: InternalsVisibleTo("MongoDB.Driver.Core.TestHelpers")]
-[assembly: InternalsVisibleTo("MongoDB.Driver.Core.Tests")]
-[assembly: InternalsVisibleTo("MongoDB.Driver.Legacy.Tests")]
-[assembly: InternalsVisibleTo("MongoDB.Driver.Tests")]
-[assembly: InternalsVisibleTo("DynamicProxyGenAssembly2")]
